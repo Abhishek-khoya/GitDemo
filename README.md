@@ -1,2 +1,2 @@
 # GitDemo
-Hot Git Repository
+Cool Git Repository
